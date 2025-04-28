@@ -38,8 +38,7 @@ We welcome contributions to make OnSage even better. Please fork the repository,
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**Contact Us**
+Contact
 For inquiries or collaboration, reach out at shriysamridhi@gmail.com
 
-**OnSage brings together AI and Ayurvedic wisdom, shaping the future of holistic cancer care. Help us revolutionize how we approach health! 🌿💡
-**
+OnSage brings together AI and Ayurvedic wisdom, shaping the future of holistic cancer care. Help us revolutionize how we approach health! 🌿💡
